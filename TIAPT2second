@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/weirdo123234/h4ckviperFE/refs/heads/main/TIAPT2final.hv
+loadstring(game:HttpGet('https://raw.githubusercontent.com/weirdo123234/h4ckviperFE/refs/heads/main/TIAPT2final.hv'))()
